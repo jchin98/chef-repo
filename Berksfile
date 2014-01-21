@@ -11,6 +11,7 @@
 # tells Berkshelf to search community.opscode.com for cookbooks. For a list of
 # other valid keys, see the Berkshelf documentation
 site :opscode
+metadata
 
 # Example usage
 # -------------
